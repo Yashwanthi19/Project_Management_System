@@ -1,5 +1,5 @@
-# Vexa Project
-Welcome to Vexa - a project management app designed to help you manage your projects more efficiently.
+# ProjeX website 
+Welcome to ProjeX - a project management app designed to help you manage your projects more efficiently.
 
 ## Features
 - Project management
@@ -26,4 +26,4 @@ Welcome to Vexa - a project management app designed to help you manage your proj
 
 Installation
 
-![image](https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png)
+![image](https://github.com/Yashwanthi19/Project_Management_System/blob/main/ProjeX.png)
