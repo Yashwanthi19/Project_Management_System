@@ -33,7 +33,7 @@ const connect = () => {
 /** Middlewares */
 app.use(express.json());
 app.use(cors({ 
-    origin: ["https://deploy-mern-1whq.vercel.app"),
+    origin: ["https://project-management-system-9ycw.vercel.app/"),
 methods: ["POST", "GET"],
     credentials: true }));
 app.use(morgan('tiny'));
